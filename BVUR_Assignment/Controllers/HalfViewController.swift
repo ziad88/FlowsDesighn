@@ -4,6 +4,7 @@
 //
 //  Created by Ziad Alfakharany on 05/01/2023.
 //
+// half sized controller code is from https://stackoverflow.com/users/12020295/mpc75
 
 import UIKit
 
